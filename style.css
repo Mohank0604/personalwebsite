@@ -1,0 +1,105 @@
+body{
+    
+    text-align:center;
+    font-family: 'Philosopher', sans-serif;
+}
+.top-container{
+    background-color: #e4f9f5;
+    top: 200px;
+    font-family: 'Philosopher', sans-serif;
+    
+}
+h1{
+    font-size: 90px;
+    color: #66BFBF;
+   
+}
+h2{
+    font-size: 2.4rem;
+    color: #66BFBF;
+    font-weight:normal;
+}
+
+.mountain{
+    display: inline-block;
+    position: relative;
+    left: 100px;
+}
+.second{
+    display: inline-block;
+    position:relative ;
+    right: 550px;
+    bottom: 330px;
+}
+.first{
+    display: inline-block;
+    position: relative;
+    left: 250px;
+    padding-top: 100px;
+
+}
+.profile{
+    display: inline-block;
+    position: relative;
+    margin-top: 50  px ;
+}
+.skill-row{
+       width: 50%;
+      left: 30px;
+      margin: 5px auto 5px auto;
+      position: relative;
+      display: inline-block;
+      text-align: left;
+}
+.skill-img{
+        width: 25%;
+        right: 15  px;
+        float: left;
+        margin-right: 10px;
+        position: relative;
+        display: inline-block;
+}
+.chilli{
+    width: 25%;
+    float:right;
+    margin-right:10px;
+  
+}
+hr{
+    border-style: dotted none none none;
+    color: gainsboro;
+    border-width:5px;
+    width: 30px;
+    height: 0%;
+
+}
+.hellopara{
+    width: 50%;
+    display:inline-block;
+    position: relative;
+    left: 35px;
+    bottom: 20px;
+}
+.bottom-container{
+   background-color:#66BFBF;
+   height: 100px;
+   text-align: center;
+   
+}
+.footer-link{
+    margin: 10px;
+    color: #11999E;
+    text-decoration: none;
+    top: 10px;
+    display:inline-block;
+    position: relative;
+}
+.name{
+   color: #EAF6F6;
+}
+.btn{
+   text-decoration: none;
+   background-color:#66BFBF;
+   color: #EAF6F6;
+   padding: 5px;
+}
